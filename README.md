@@ -62,7 +62,7 @@ The tuned Random Forest achieved:
 ```text
 Customer-Churn-Prediction-ML/
 │
-├── Sameera_K_FinalProject_MLInternship.ipynb
+├── Sameera_K_FinalProject_MLInternship(1).ipynb
 ├── model_comparison_results.csv
 └── README.md
 ```
